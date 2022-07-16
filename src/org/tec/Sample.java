@@ -26,5 +26,14 @@ public class Sample {
 		System.out.println("Arun");
 
 	}
-	
+	private void method100() {
+		System.out.println("Type 999");
+		System.out.println("Suresh");
+
+	}
+	private void method200() {
+		System.out.println("Type 8888");
+		System.out.println("Arun");
+
+	}
 }
