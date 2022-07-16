@@ -4,6 +4,8 @@ public class Sample {
 	private void method1() {
 		System.out.println("Type 11");
 		System.out.println("Guna");
+		System.out.println("20000000");
+		System.out.println("30000000");
 
 	}
 
