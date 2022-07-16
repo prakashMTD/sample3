@@ -23,4 +23,24 @@ public class Sample {
 		System.out.println("Type 55");
 
 	}
+	private void method6() {
+		System.out.println("Type 66");
+
+	}
+	private void method7() {
+		System.out.println("Type 77");
+
+	}
+	private void method8() {
+		System.out.println("Type 88");
+
+	}
+	private void method9() {
+		System.out.println("Type 99");
+
+	}
+	private void method10() {
+		System.out.println("Type 110");
+
+	}
 }
